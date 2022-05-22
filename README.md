@@ -6,7 +6,7 @@
 
 - Download this repository
 - Download and install the latest Java Development Kit JDK 15. You can download it from the Java SE Development Kit downloads page at: https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
-- Dpwnload the latest version of JDBC (4.2) https://jdbc.postgresql.org/download.html
+- Download the latest version of JDBC (4.2) https://jdbc.postgresql.org/download.html
 - Download and Install Apache NetBeans https://netbeans.apache.org/download/nb121/nb121.html
 - Add the Java variable to your path environment
 - Add the path of the PostgreSQL JDBC driver to the CLASSPATH environment variable. 
@@ -72,7 +72,7 @@ The user is asked to input his/her username (jTextField) and password (jPassword
 
 <img src="images/Authenticate1.png" width="450">
 
-- If authentication is successful (username = admin, password = admin) , JOptionPane Information Message is displayed and user is directed to Home Page:
+- If authentication is successful (username = admin and password = admin), JOptionPane Information Message is displayed and user is directed to Home Page:
 
 <img src="images/authenticate2.png" width="450">
 
@@ -84,7 +84,7 @@ The user can naviguate the CRUD Application and choose to manage (Add/Delete/Sea
 
 <ins>ADD</insu>
 
-After clicking on a particular section in the HOME PAGE, we will be directed to a page that looks like this:
+After clicking on a particular section in the HOME PAGE, we will be directed to a jFrame that looks like this:
 
 (This page show up when we click on the section "Orders")
 
