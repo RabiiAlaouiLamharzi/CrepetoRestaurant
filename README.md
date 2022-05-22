@@ -1,13 +1,13 @@
 # Crepeto Restaurant Management System (Java Swing, PostgreSQL)
 
-*Crepeto* is a mid-range creperie and restaurant located in Ifrane. This project aims to create a *CRUD application* that will automate the management of the restaurant's orders, inventory, billing, and employees.
+*Crepeto* is a mid-range creperie and restaurant located in Ifrane-Morocco. This project aims to create a *CRUD application* that will automate the management of the restaurant's orders, inventory, billing, and employees.
 
-**To use you need to:**
+**To use, you need to:**
 
 - Download this repository
 - Download and install the latest Java Development Kit JDK 15. You can download it from the Java SE Development Kit downloads page at: https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
-- Dpwnload the latest version of JDBC (4.2) from this https://jdbc.postgresql.org/download.html
-- Download and Install Apache NetBeans from this https://netbeans.apache.org/download/nb121/nb121.html
+- Dpwnload the latest version of JDBC (4.2) https://jdbc.postgresql.org/download.html
+- Download and Install Apache NetBeans https://netbeans.apache.org/download/nb121/nb121.html
 - Add the Java variable to your path environment
 - Add the path of the PostgreSQL JDBC driver to the CLASSPATH environment variable. 
 
