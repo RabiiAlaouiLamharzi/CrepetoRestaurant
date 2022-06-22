@@ -168,4 +168,4 @@ In order to compute the Net Profit, we need to compute first the revenues and ex
 Net Profit simply substract expenses from revenues and returns a message!
 
 <img src="images/MonthlyProfit.png" width="450">
- 
+  
