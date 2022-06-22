@@ -5,8 +5,8 @@
 **To use, you need to:**
 
 - Download or clone this repository
-- Download and install the latest Java Development Kit JDK 15. You can download it from the Java SE Development Kit downloads page at: https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
-- Download the latest version of JDBC (4.2) https://jdbc.postgresql.org/download.html
+- Download and install the latest Java Development Kit. You can download it from the Java SE Development Kit downloads page at: https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
+- Download the latest version of JDBC https://jdbc.postgresql.org/download.html
 - Download and Install Apache NetBeans https://netbeans.apache.org/download/nb121/nb121.html
 - Add the Java variable to your path environment
 - Add the path of the PostgreSQL JDBC driver to the CLASSPATH environment variable. 
