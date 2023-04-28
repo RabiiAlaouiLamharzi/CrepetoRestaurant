@@ -68,7 +68,7 @@
 
 The user is asked to input his/her username (jTextField) and password (jPasswordField)
 
-- If username or password incorrect, an Error is message is displayed in jLabel: 
+- If username or password incorrect, an Error message is displayed in jLabel: 
 
 <img src="images/Authenticate1.png" width="450">
 
